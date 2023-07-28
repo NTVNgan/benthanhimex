@@ -1,0 +1,66 @@
+
+---Downloaded files---
+The import files for: rediquare were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://localhost:8000/benthanhimex
+Data file = /opt/lampp/htdocs/benthanhimex/wp-content/themes/rediquare/custom/one-click/rediquare_wordpress.xml
+Widget file = /opt/lampp/htdocs/benthanhimex/wp-content/themes/rediquare/custom/one-click/rediquare_widgets_settings.wie
+Customizer file = /opt/lampp/htdocs/benthanhimex/wp-content/themes/rediquare/custom/one-click/rediquare_customizer_export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Header Off Canvas : 
+
+Navigation Menu - No Title - Imported
+
+Sidebar 1 : 
+
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+Sidebar 2 : 
+
+Block - No Title - Imported
+Active Product Filters - Active filters - Imported
+Filter Products by Price - Filter by price - Imported
+Filter Products by Attribute - Filter by - Imported
+
+Footer 1 : 
+
+Block - No Title - Imported
+
+Footer 2 : 
+
+Block - No Title - Imported
+
+Footer 3 : 
+
+Block - No Title - Imported
+
+Footer 4 : 
+
+Block - No Title - Imported
+
+Footer 5 : 
+
+Mailchimp Sign-Up Form - No Title - Imported
+
+Footer 6 : 
+
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+Slider import successfully
